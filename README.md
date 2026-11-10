@@ -20,7 +20,7 @@ Source data for these analysis is as follows:
 
 ### Ethiopia
 
-**Ethiopia Household Consumption Expenditure Survey 2015-2016**: TBD
+**Ethiopia Household Consumption Expenditure Survey 2015-2016**: https://ess.gov.et/download/14023/ 
 
 
 ### India
@@ -36,7 +36,7 @@ Source data for these analysis is as follows:
 
 ### Mexico
 
-The data is collected from public sources (National Institute of Statistics and Information, INEGI; Ministry od Energy, Sener; Newspapers articles, among others).
+The data is collected from public sources (National Institute of Statistics and Information, INEGI; Ministry of Energy, Sener; Newspapers articles, among others).
 
 
 ### Rights statement
