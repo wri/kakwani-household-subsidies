@@ -29,19 +29,19 @@ Source data for these analysis is as follows:
 
 - Microdata requires a login, therefore should be obtained independently
 - This analysis uses:
-	- Level 05
-	- Level 08
-	- Level 09
-	- Level 15
+	- _Level 05
+	- _Level 08
+	- _Level 09
+	- _Level 15
 
 ### Mexico
 
-The data is collected from public sources (National Institute of Statistics and Information, INEGI; Ministry of Energy, Sener; Newspapers articles, among others).
+**Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2024**: https://www.inegi.org.mx/programas/enigh/nc/2024/#microdatos
+
+- Microdata file: _Principales variables por hogar (concentradohogar) (CSV)_
 
 
 ### Rights statement
-
-Outputs from this project are licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.en) license.
 
 Code is licensed under the [MIT license](https://spdx.org/licenses/MIT.html). See LICENSE.txt.
 
