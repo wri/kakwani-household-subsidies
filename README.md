@@ -29,10 +29,10 @@ Source data for these analysis is as follows:
 
 - Microdata requires a login, therefore should be obtained independently
 - This analysis uses:
-	- _Level 05
-	- _Level 08
-	- _Level 09
-	- _Level 15
+	- _Level 05_
+	- _Level 08_
+	- _Level 09_
+	- _Level 15_
 
 ### Mexico
 
