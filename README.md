@@ -1,5 +1,6 @@
 ---
-title: Supporting materials for "Breaking the Fossil Fuel Subsidy Cycle Can Build Resilience to the Next Energy Crisis"
+title: "Supporting materials for \"Avoiding the Subsidy Trap: How Countries Can Prepare for the Next Energy Crisis\""
+canonical_url: https://github.com/wri/kakwani-household-subsidies
 version: 0.1
 attributes:
   - WRI Insights
@@ -10,7 +11,7 @@ attributes:
 
 ## Overview
 
-This code describes analyses of household expenditures and subsidies associated with the WRI Insights article "Breaking the Fossil Fuel Subsidy Cycle Can Build Resilience to the Next Energy Crisis", published 2026.
+This code describes analyses of household expenditures associated with the WRI Insights article "[Avoiding the Subsidy Trap: How Countries Can Prepare for the Next Energy Crisis](https://www.wri.org/insights/avoiding-fossil-fuel-subsidy-trap-next-energy-crisis)", published 2026.
 
 The analysis is performed for three geographies.
 
